@@ -96,6 +96,7 @@ Publish the website in the LocalHost.
     <div class="book-cover">
         <div class="title"align="margin-top">OUR UNIVERSE</div> 
         <div class="background img"></div>
+        <div><h2>Milkyway Galaxy<h2></div>
         <img src="c:\Users\acer\Pictures\Screenshots\Screenshot 2025-09-23 193000.png"width="500px" height="700px">
         <div class="author">
             <img src="c:\Users\acer\Pictures\Screenshots\Screenshot 2025-09-23 191855.png" alt="Author">
@@ -114,7 +115,7 @@ Publish the website in the LocalHost.
 
 ```
 # OUTPUT:
-![alt text](<Screenshot 2025-09-23 203126.png>)
+![alt text](<Screenshot 2025-09-24 085130.png>)
 
 
 # RESULT:
